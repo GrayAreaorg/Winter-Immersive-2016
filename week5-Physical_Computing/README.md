@@ -25,6 +25,8 @@
 
 *Projects with Arduino*
 
+* [Creative Applications Arduino Project Index](http://www.creativeapplications.net/category/arduino-2/)
+
 * [arduinoscope](https://github.com/konsumer/arduinoscope) - An oscilloscope, using arduino and processing/node
 * [ArduinoPlot](https://github.com/gregpinero/ArduinoPlot) - Real time Plot Numeric Values sent from Arduino over Serial Port 
 * [ArduinoISP](https://github.com/rsbohn/ArduinoISP) - Use the Arduino to program AVR chips
