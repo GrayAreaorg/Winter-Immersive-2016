@@ -135,13 +135,41 @@ Read the following:
 * [Daniel Rozin's Mirrors](http://www.smoothware.com/danny/)
 * [Jonahtan Harris](http://www.number27.org/iwytwm)
 
-
-
 <br>
 ## Thursday February 5th 2016 (6pm - 9pm)
 <br>
-### Part I: Share Results from Aassignment #1
+
+
 <br>
+### Part I: Female Artists 
+<br>
+*[Camille Utterback - Text Rain](http://camilleutterback.com/projects/text-rain/)
+*[Lynn Horseman Leeson - Americas Finest](http://www.bitforms.com/leeson/americas-finest)
+*[Lauren McCarthy- Social Soul](http://lauren-mccarthy.com/Social-Soul)
+*[Natalie Jeremanchinco -  Beetle Wrester](http://designandviolence.moma.org/beetle-wrestler-natalie-jeremijenko-chris-woebken/)[ video](https://www.youtube.com/watch?v=8W-pqTiGN3w)
+*[Jennifer Steinkamp - Madame Curie](http://jsteinkamp.com/html/madame_curie.htm)
+
+<br>
+### Part II: Tour The Facilities
+<br>
+
+<br>
+### Part III: Share Results from Aassignment #1
+<br>
+
+<br>
+### Part IV: In Class Assigment  (Documenting Questions)
+<br>
+
+
+<br>
+### Part V: Assigment #2
+<br>
+
+*[Reveal.js](http://camilleutterback.com/projects/text-rain/) - [example](http://codepen.io/fabean/pen/NGjbaP)
+
+Using 2 - 4 slides, create a presentation with Reveal.js to your intedned work for the Showcase.  Be prepared to present this to the class on Saturday.    
+
 
 ## Saturday February 7th 2016 (12pm - 4pm)
 
